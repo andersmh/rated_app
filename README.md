@@ -1,1 +1,1 @@
-# rated_app
+# RATED
