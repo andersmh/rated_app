@@ -15,6 +15,8 @@ You can find the app on both [Play Store](https://play.google.com/store/apps/det
 
 ## 🔥 GIFs from the app
 <img src="https://user-images.githubusercontent.com/31239471/90681033-0a42a180-e263-11ea-96f0-eb5f7bb31969.gif" width="20%" height="20%"></img>
-
-
 &nbsp;
+&nbsp;
+&nbsp;
+<img src="https://user-images.githubusercontent.com/31239471/90682137-d1a3c780-e264-11ea-8b63-115fbc13896a.gif" width="20%" height="20%"></img>
+
