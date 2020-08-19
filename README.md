@@ -10,10 +10,10 @@
 <br>
 <br>
 
-## Where to download?
+## 🧐 Where to download?
 You can find the app on both [Play Store](https://play.google.com/store/apps/details?id=app.andersmhalvorsen.rated) and [App Store](https://apps.apple.com/us/app/id1526506878)! 🔥
 
-## GIFs
+## 🔥 GIFs from the app
 <img src="https://user-images.githubusercontent.com/31239471/73666215-bb586480-46a2-11ea-8feb-ca09f979bb55.gif" width="20%" height="20%"></img>
 &nbsp;
 &nbsp;
