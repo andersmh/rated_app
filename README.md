@@ -1,9 +1,9 @@
 # RATED (2020)
+<img src="https://user-images.githubusercontent.com/31239471/73654645-8a6d3500-468c-11ea-9624-711c853ea587.png" height="420%" width="20%" align="left"></img>
 🌟A personal rating keeper. The app lets you rate food, drinks, items or anything you want throughout your travels! The app was made using Flutter SDK and designed using Adobe XD.
 ## Where to download?
 
 # GIFs
-<img src="https://user-images.githubusercontent.com/31239471/73654645-8a6d3500-468c-11ea-9624-711c853ea587.png" height="420%" width="20%" align="left"></img>
 
 
 
