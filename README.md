@@ -18,7 +18,7 @@ You can find the app on both [Play Store](https://play.google.com/store/apps/det
 &nbsp;
 &nbsp;
 &nbsp;
-<img src="https://user-images.githubusercontent.com/31239471/90681033-0a42a180-e263-11ea-96f0-eb5f7bb31969.gif" width="20%" height="20%"></img>
+<img src="https://user-images.githubusercontent.com/31239471/90682668-98b82280-e265-11ea-9633-513e533ee297.gif" width="20%" height="20%"></img>
 &nbsp;
 &nbsp;
 &nbsp;
