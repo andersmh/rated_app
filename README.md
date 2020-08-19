@@ -1,4 +1,5 @@
-# RATED (2020) <img src="https://user-images.githubusercontent.com/31239471/73654645-8a6d3500-468c-11ea-9624-711c853ea587.png" height="100" width="100" align="right" />
+ <img src="https://user-images.githubusercontent.com/31239471/73654645-8a6d3500-468c-11ea-9624-711c853ea587.png" height="50" width="50" align="right" />
+# RATED (2020)
 
 
 🌟A personal rating keeper. The app lets you rate food, drinks, items 
