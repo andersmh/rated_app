@@ -14,14 +14,7 @@
 You can find the app on both [Play Store](https://play.google.com/store/apps/details?id=app.andersmhalvorsen.rated) and [App Store](https://apps.apple.com/us/app/id1526506878)! 🔥
 
 ## 🔥 GIFs from the app
-<img src="https://user-images.githubusercontent.com/31239471/73666215-bb586480-46a2-11ea-8feb-ca09f979bb55.gif" width="20%" height="20%"></img>
+<img src="https://user-images.githubusercontent.com/31239471/90681033-0a42a180-e263-11ea-96f0-eb5f7bb31969.gif" width="20%" height="20%"></img>
+
+
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<img src="https://user-images.githubusercontent.com/31239471/73666158-9ebc2c80-46a2-11ea-9a92-49e3876bfc7c.gif" width="20%" height="20%"></img>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<img src="https://user-images.githubusercontent.com/31239471/73666260-cf03cb00-46a2-11ea-8363-c07523230a89.gif" width="20%" height="20%"></img>
